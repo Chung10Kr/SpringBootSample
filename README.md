@@ -1,5 +1,9 @@
-# api-server
-highgroup api server repository
+# SpringBoot Sample
+
+- SpringBoot
+- MariaDb
+- Redis
+- Embedded Tomcat
 
 # Build
 ```
